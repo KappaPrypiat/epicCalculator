@@ -1,0 +1,21 @@
+#app {
+    padding-top:  20px;
+    padding-bottom:  350px;
+    display: flex;
+    justify-content: space-around;
+    /*align-items: center;*/
+}
+
+#calculator {
+    background-color: rgb(112, 98, 238);
+    padding:  39px;
+    display:  inline-block;
+    margin:  auto;
+}
+#Background
+{
+background-image: url("https://images.squarespace-cdn.com/content/v1/57b9b98a29687f1ef5c622df/1475063231524-BZ9JH3FMPTGEPJWNFHO0/A+doll+in+one+of+the+classrooms+in+a+school+in+Pripyat");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: fixed;
+}
